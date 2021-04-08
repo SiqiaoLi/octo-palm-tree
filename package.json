@@ -1,13 +1,13 @@
 {
-  "name": "react-component-library",
-  "version": "1.0.0",
+  "name": "octo-palm-tree",
+  "version": "1.0.2",
   "main": "build/index.js",
   "module": "build/index.esm.js",
   "files": [
     "build"
   ],
   "types": "build/index.d.ts",
-  "description": "A skeleton to create your own React component library using Rollup, TypeScript, Sass and Storybook",
+  "description": "A React component library using Rollup, TypeScript, Sass and Storybook",
   "scripts": {
     "build": "rollup -c",
     "test": "jest",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HarveyD/react-component-library.git"
+    "url": "git+https://github.com/SiqiaoLi/octo-palm-tree.git"
   },
   "keywords": [
     "React",
@@ -30,12 +30,12 @@
     "Sass",
     "Storybook"
   ],
-  "author": "Harvey Delaney",
+  "author": "Siqiao Li",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HarveyD/react-component-library/issues"
+    "url": "https://github.com/SiqiaoLi/octo-palm-tree/issues"
   },
-  "homepage": "https://github.com/HarveyD/react-component-library#readme",
+  "homepage": "https://github.com/SiqiaoLi/octo-palm-tree#readme",
   "peerDependencies": {
     "react": ">=16.8.0",
     "react-dom": ">=16.8.0"
